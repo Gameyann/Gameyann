@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Developer · Software Architecture · Technical Delivery**
 
-Based in Cameroon. Open to remote roles and relocation opportunities in Canada. Employer support for Canadian work authorization would be required for relocation.
+Based in Cameroon.
 
 I build business applications with Java, Spring Boot, Angular and Laravel. In team projects, I have combined the roles of Scrum Master, software architect and hands-on full-stack developer.
 
@@ -46,5 +46,5 @@ The case studies describe team products with permission to present them publicly
 
 ---
 
-**En français :** développeur fullstack senior, architecte logiciel et Scrum Master sur des projets d'équipe. Basé au Cameroun, ouvert au travail à distance et aux opportunités au Canada avec accompagnement de l'employeur pour l'autorisation de travail.
+**En français :** développeur fullstack senior, architecte logiciel et Scrum Master sur des projets d'équipe. Basé au Cameroun.
 
